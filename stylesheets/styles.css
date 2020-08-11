@@ -59,6 +59,21 @@ a:hover small {
   margin:0 auto;
 }
 
+.social_wrapper {
+  display: inline-block;
+}
+
+#social_link {
+  width: 89px;
+  height: 40px;
+  border-radius: 5px;
+  color: black;
+  padding-top: 9%;
+  font-size: 25px;
+}
+
+
+
 blockquote {
   border-left:1px solid #e5e5e5;
   margin:0;
@@ -97,6 +112,10 @@ dt {
 
 th {
   color:#444;
+}
+
+.social_title {
+  text-align: center;
 }
 
 img {
