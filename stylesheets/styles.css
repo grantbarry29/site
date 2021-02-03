@@ -54,6 +54,10 @@ a:hover small {
   color:#777;
 }
 
+.timeperiod {
+  margin:0 0 5px;
+}
+
 .company_title {
   color:#00527a;
 }
