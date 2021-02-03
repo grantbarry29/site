@@ -54,6 +54,10 @@ a:hover small {
   color:#777;
 }
 
+.social:hover {
+  opacity: 35%;
+}
+
 .wrapper {
   width:860px;
   margin:0 auto;
