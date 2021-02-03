@@ -35,12 +35,12 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color:#39c;
+  color:#00527a;
   text-decoration:none;
 }
 
 a:hover {
-  color:#069;
+  color:#39c;
 }
 
 a small {
@@ -54,9 +54,14 @@ a:hover small {
   color:#777;
 }
 
-.social:hover {
-  opacity: 35%;
+.company_title {
+  color:#00527a;
 }
+
+.company_title:hover {
+  color:#39c;
+}
+
 
 .wrapper {
   width:860px;
@@ -71,9 +76,13 @@ a:hover small {
   width: 89px;
   height: 40px;
   border-radius: 5px;
-  color: black;
+  color:#00527a;
   padding-top: 9%;
   font-size: 25px;
+}
+
+#social_link:hover {
+  color:#39c;
 }
 
 
